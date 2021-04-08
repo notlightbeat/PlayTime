@@ -1,0 +1,4 @@
+messages:
+  play-time: '[&bPlayTime&r] &9Play time: &b%hours%&9 hour(s), &b%minutes%&9 minute(s), &b%seconds%&9 second(s). Join date: &b%player_first_join_date%'
+  offline-play-time: '[&bPlayTime&r] &9Join date: &b%player_first_join_date%'
+  player-not-found: '[&bPlayTime&r] &9Player not found'

@@ -1,0 +1,9 @@
+name: PlayTime
+version: ${project.version}
+main: xyz.notlightbeat.playtime.PlayTime
+authors: [ NotLightBeat ]
+website: notlightbeat.xyz
+depend: [PlaceholderAPI]
+commands:
+  userinfo:
+    description: Shows the playtime of a user.
